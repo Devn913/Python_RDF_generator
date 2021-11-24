@@ -1,0 +1,12 @@
+Product id,Product Name,RAM,SSD,Price,Processor,ScreenSize
+1,Acer Aspire,4,256,31000,i5,15.5
+2,Macbook,8,128,87000,i3,13.3
+3,Lenevo notebook,8,512,47000,Ryzen-3,14
+4,Acer Notebook,16,256,35000,i3,15.5
+5,Acer NItro,16,256,87000,i7,17
+6,HP,8,512,40000,Ryzen-3,14
+7,HP Chromebook,8,64,21000,Dual Core,11
+8,Asus Vivobook,4,256,27999,i3,15.5
+9,Asus Chromebook,8,64,21000,Dual Core,11
+10,Dell ,4,512,59000,i5,15.3
+11,Macbook,16,512,111700,i5,13.3

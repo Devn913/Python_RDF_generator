@@ -1,0 +1,113 @@
+@prefix ns1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/product/1> a <http://xmlns.com/foaf/0.1/id>,
+        <http://xmlns.com/foaf/0.1/name> ;
+    ns1:hasPrice 31000 ;
+    ns1:hasProcessor "i5"^^xsd:string ;
+    ns1:hasRam 4 ;
+    ns1:hasSSD 256 ;
+    ns1:hasScreenSize "15.5"^^xsd:string ;
+    ns1:id "1"^^xsd:int ;
+    ns1:name "Acer Aspire"^^xsd:string .
+
+<https://example.org/product/10> a <http://xmlns.com/foaf/0.1/id>,
+        <http://xmlns.com/foaf/0.1/name> ;
+    ns1:hasPrice 59000 ;
+    ns1:hasProcessor "i5"^^xsd:string ;
+    ns1:hasRam 4 ;
+    ns1:hasSSD 512 ;
+    ns1:hasScreenSize "15.3"^^xsd:string ;
+    ns1:id "10"^^xsd:int ;
+    ns1:name "Dell "^^xsd:string .
+
+<https://example.org/product/11> a <http://xmlns.com/foaf/0.1/id>,
+        <http://xmlns.com/foaf/0.1/name> ;
+    ns1:hasPrice 111700 ;
+    ns1:hasProcessor "i5"^^xsd:string ;
+    ns1:hasRam 16 ;
+    ns1:hasSSD 512 ;
+    ns1:hasScreenSize "13.3"^^xsd:string ;
+    ns1:id "11"^^xsd:int ;
+    ns1:name "Macbook"^^xsd:string .
+
+<https://example.org/product/2> a <http://xmlns.com/foaf/0.1/id>,
+        <http://xmlns.com/foaf/0.1/name> ;
+    ns1:hasPrice 87000 ;
+    ns1:hasProcessor "i3"^^xsd:string ;
+    ns1:hasRam 8 ;
+    ns1:hasSSD 128 ;
+    ns1:hasScreenSize "13.3"^^xsd:string ;
+    ns1:id "2"^^xsd:int ;
+    ns1:name "Macbook"^^xsd:string .
+
+<https://example.org/product/3> a <http://xmlns.com/foaf/0.1/id>,
+        <http://xmlns.com/foaf/0.1/name> ;
+    ns1:hasPrice 47000 ;
+    ns1:hasProcessor "Ryzen-3"^^xsd:string ;
+    ns1:hasRam 8 ;
+    ns1:hasSSD 512 ;
+    ns1:hasScreenSize "14.0"^^xsd:string ;
+    ns1:id "3"^^xsd:int ;
+    ns1:name "Lenevo notebook"^^xsd:string .
+
+<https://example.org/product/4> a <http://xmlns.com/foaf/0.1/id>,
+        <http://xmlns.com/foaf/0.1/name> ;
+    ns1:hasPrice 35000 ;
+    ns1:hasProcessor "i3"^^xsd:string ;
+    ns1:hasRam 16 ;
+    ns1:hasSSD 256 ;
+    ns1:hasScreenSize "15.5"^^xsd:string ;
+    ns1:id "4"^^xsd:int ;
+    ns1:name "Acer Notebook"^^xsd:string .
+
+<https://example.org/product/5> a <http://xmlns.com/foaf/0.1/id>,
+        <http://xmlns.com/foaf/0.1/name> ;
+    ns1:hasPrice 87000 ;
+    ns1:hasProcessor "i7"^^xsd:string ;
+    ns1:hasRam 16 ;
+    ns1:hasSSD 256 ;
+    ns1:hasScreenSize "17.0"^^xsd:string ;
+    ns1:id "5"^^xsd:int ;
+    ns1:name "Acer NItro"^^xsd:string .
+
+<https://example.org/product/6> a <http://xmlns.com/foaf/0.1/id>,
+        <http://xmlns.com/foaf/0.1/name> ;
+    ns1:hasPrice 40000 ;
+    ns1:hasProcessor "Ryzen-3"^^xsd:string ;
+    ns1:hasRam 8 ;
+    ns1:hasSSD 512 ;
+    ns1:hasScreenSize "14.0"^^xsd:string ;
+    ns1:id "6"^^xsd:int ;
+    ns1:name "HP"^^xsd:string .
+
+<https://example.org/product/7> a <http://xmlns.com/foaf/0.1/id>,
+        <http://xmlns.com/foaf/0.1/name> ;
+    ns1:hasPrice 21000 ;
+    ns1:hasProcessor "Dual Core"^^xsd:string ;
+    ns1:hasRam 8 ;
+    ns1:hasSSD 64 ;
+    ns1:hasScreenSize "11.0"^^xsd:string ;
+    ns1:id "7"^^xsd:int ;
+    ns1:name "HP Chromebook"^^xsd:string .
+
+<https://example.org/product/8> a <http://xmlns.com/foaf/0.1/id>,
+        <http://xmlns.com/foaf/0.1/name> ;
+    ns1:hasPrice 27999 ;
+    ns1:hasProcessor "i3"^^xsd:string ;
+    ns1:hasRam 4 ;
+    ns1:hasSSD 256 ;
+    ns1:hasScreenSize "15.5"^^xsd:string ;
+    ns1:id "8"^^xsd:int ;
+    ns1:name "Asus Vivobook"^^xsd:string .
+
+<https://example.org/product/9> a <http://xmlns.com/foaf/0.1/id>,
+        <http://xmlns.com/foaf/0.1/name> ;
+    ns1:hasPrice 21000 ;
+    ns1:hasProcessor "Dual Core"^^xsd:string ;
+    ns1:hasRam 8 ;
+    ns1:hasSSD 64 ;
+    ns1:hasScreenSize "11.0"^^xsd:string ;
+    ns1:id "9"^^xsd:int ;
+    ns1:name "Asus Chromebook"^^xsd:string .
+
